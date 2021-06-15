@@ -1,1 +1,4 @@
-This is a new file.
+---
+title: "my-first-blog"
+date: 2021-06-15
+---
